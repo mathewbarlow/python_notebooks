@@ -1,3 +1,3 @@
 # python_notebooks
 
-This is a repository of python notebooks that may be of general interest.
+This is a repository of python notebooks (and associated data) that may be of general interest.
