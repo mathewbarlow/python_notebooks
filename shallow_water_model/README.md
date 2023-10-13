@@ -12,8 +12,10 @@ Two versions of the notebook are provided: one with all the cells run, including
 
 Support from NSF AGS-1623912, NSF AGS-1657921, and NOAA MAPP NA20OAR4310424 is gratefully acknowledged.
 
-The results from some of the experiments are shown below:
+The results from some of the experiments are shown below. You may need to refresh the page for them to animate.
 
+Cyclone in Westerly
 ![](images/cyclone_in_westerly.gif)
 
+Gravity Wave Swag
 ![](images/umass_lowell.gif)
