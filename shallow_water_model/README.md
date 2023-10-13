@@ -4,23 +4,27 @@ The python notebook solves the non-linear shallow water equations on a Cartesian
 
 The code and experiment set was originally programed in MATLAB by Robin Hogan and translated to python by Paul Connolly. It was hacked roughly into notebook form by Matt Barlow, with a few additional features added, ignoring all principles of robust coding. If you have any questions, find any bugs, or develop any improvements please email Mathew_Barlow@uml.edu.  
 
-A separate pdf file, swe_notes.pdf, further describes the different intial conditions and configurations, and two additional data files, digitial_elevation_map.mat and reanalysis.mat, are also included.
+A separate pdf file, swe_notes.pdf, further describes the different intial conditions and configurations, and two additional data files, digitial_elevation_map.mat and reanalysis.mat, are also included, for some of the experiments.
 
-The experiments include an idealized cyclone in westerly flow, barotropic instability, gravity waves, tsunamis, and equatorial waves. A second version of the model that runs from user-specified initial conditons is also included. Functions for plotting and making animations of the model output are included. Note that the in-line animations can be slow to render (3 to 4 minutes each on my laptop).
+The experiments include an idealized cyclone in westerly flow, barotropic instability, gravity waves, tsunamis, equatorial waves, and others. A second version of the model that runs from user-specified initial conditons is also included. Functions for plotting and making animations of the model output are included. Note that the in-line animations can be slow to render (3 to 4 minutes each on my laptop).
 
-Two versions of the notebook are provided: one with all the cells run, including inline animations; and one with all the code cells cleared. 
+Two versions of the notebook are provided: one with all the cells run, including inline animations, which is nearly 200 mb; and one with all the code cells cleared. 
 
 Support from NSF AGS-1623912, NSF AGS-1657921, and NOAA MAPP NA20OAR4310424 is gratefully acknowledged.
 
-The results from some of the experiments are shown below. You may need to refresh the page to get them to animate.
+The results from some of the experiments are shown below. 
 
 **Cyclone in Westerly**
 
-<img width="500" src="images/cyclone_in_westerly.gif" loop=infinite>
+<img width="500" src="images/cyclone_in_westerly_loop.gif" loop=infinite>
 
 **Barotropic Instability**
 
-<img width="500" src="images/barotropic_instability.gif" loop=infinite>
+<img width="500" src="images/barotropic_instability_loop.gif" loop=infinite>
+
+**Realistic Orography**
+
+<img width="500" src="images/rossby_realistic_mountains_loop.gif" loop=infinite>
 
 **Gravity Wave Swag**
 
