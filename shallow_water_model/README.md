@@ -1,4 +1,4 @@
-This folder contains a Jupyter notebook to run a shallow water model with several pre-defined experiments, as well as some supplemental files. The notebook is currently in beta form and may cause nausea, itching, and intermittent weeping.
+This folder contains a Jupyter python notebook to run a shallow water model with several pre-defined experiments, as well as some supplemental files. The notebook is currently in beta form and may cause nausea, itching, and intermittent weeping.
 
 The python notebook solves the non-linear shallow water equations on a Cartesian beta plane in a channel, with several different options for the setup of the model to illustrate a range of meteorological phenomenona.
 
