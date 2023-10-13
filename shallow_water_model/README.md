@@ -6,4 +6,6 @@ The code and experiment set was originally programed in MATLAB by Robin Hogan an
 
 A separate pdf file, swe_notes.pdf, further describes the different intial conditions and configurations, and two additional data files, digitial_elevation_map.mat and reanalysis.mat, are also included.
 
-The experiments include an idealized cyclone in westerly flow, barotropic instability, gravity waves, tsunamis, and equatorial waves. A second version of the model that runs from user-specified initial conditons is also included.
+The experiments include an idealized cyclone in westerly flow, barotropic instability, gravity waves, tsunamis, and equatorial waves. A second version of the model that runs from user-specified initial conditons is also included. Functions for plotting and making animations of the model output are included. Note that the in-line animations can be slow to render (3 to 4 minutes each on my laptop).
+
+Two versions of the notebook are provided: one with all the cells run, including inline animations; and one with all the code cells cleared. 
