@@ -12,16 +12,16 @@ Two versions of the notebook are provided: one with all the cells run, including
 
 Support from NSF AGS-1623912, NSF AGS-1657921, and NOAA MAPP NA20OAR4310424 is gratefully acknowledged.
 
-The results from some of the experiments are shown below. You may need to refresh the page for them to animate.
+The results from some of the experiments are shown below. 
 
 **Cyclone in Westerly**
 
-<img width="500" src="images/cyclone_in_westerly.gif">
+<img width="500" src="images/cyclone_in_westerly.gif" loop=infinite>
 
 **Barotropic Instability**
 
-<img width="500" src="images/barotropic_instability.gif">
+<img width="500" src="images/barotropic_instability.gif" loop=infinite>
 
 **Gravity Wave Swag**
 
-<img width="500" src="images/umass_lowell.gif">
+<img width="500" src="images/umass_lowell.gif" loop=infinite>
