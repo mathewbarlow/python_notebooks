@@ -24,4 +24,4 @@ The results from some of the experiments are shown below. You may need to refres
 
 **Gravity Wave Swag**
 
-<img width="500" src="images/umass_lowell.gif" loop=infinite>
+<img width="500" src="images/umass_lowell_loop.gif" loop=infinite>
