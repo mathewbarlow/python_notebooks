@@ -14,10 +14,11 @@ Support from NSF AGS-1623912, NSF AGS-1657921, and NOAA MAPP NA20OAR4310424 is g
 
 The results from some of the experiments are shown below. You may need to refresh the page for them to animate.
 
+**Cyclone in Westerly**
 <img align="left" width="500" src="images/cyclone_in_westerly.gif">
 
-Cyclone in Westerly
-![](images/cyclone_in_westerly.gif)
+**Barotropic Instability**
+<img align="left" width="500" src="images/barotropic_instability.gif">
 
-Gravity Wave Swag
-![](images/umass_lowell.gif)
+**Gravity Wave Swag**
+<img align="left" width="500" src="images/umass_lowell.gif">
