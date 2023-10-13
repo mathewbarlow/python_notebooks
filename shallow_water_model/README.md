@@ -12,4 +12,4 @@ Two versions of the notebook are provided: one with all the cells run, including
 
 Support from NSF AGS-1623912, NSF AGS-1657921, and NOAA MAPP NA20OAR4310424 is gratefully acknowledged.
 
-<img align="left" width="600" height="300" src="images/cyclone_in_westerlies.gif">
+<img align="left" width="600" height="300" src="images/cyclone_in_westerly.gif">
