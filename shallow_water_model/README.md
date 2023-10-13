@@ -4,7 +4,7 @@ The python notebook solves the non-linear shallow water equations on a Cartesian
 
 The code and experiment set was originally programed in MATLAB by Robin Hogan and translated to python by Paul Connolly. It was hacked roughly into notebook form by Matt Barlow, with a few additional features added, ignoring all principles of robust coding. If you have any questions, find any bugs, or develop any improvements please email Mathew_Barlow@uml.edu.  
 
-A separate pdf file, swe_notes.pdf, further describes the different intial conditions and configurations, and two additional data files, digitial_elevation_map.mat and reanalysis.mat, are also included, for some of the experiments.
+A separate pdf file, swe_notes.pdf, further describes the different intial conditions and configurations, and two additional data files, digitial_elevation_map.mat and reanalysis.mat, are also included, which are needed for some (but not most) of the experiments.
 
 The experiments include an idealized cyclone in westerly flow, barotropic instability, gravity waves, tsunamis, equatorial waves, and others. A second version of the model that runs from user-specified initial conditons is also included. Functions for plotting and making animations of the model output are included. Note that the in-line animations can be slow to render (3 to 4 minutes each on my laptop).
 
