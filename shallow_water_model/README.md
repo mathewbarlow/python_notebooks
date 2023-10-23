@@ -12,7 +12,7 @@ Two versions of the notebook are provided: one with all the cells run, except fo
 
 Support from NSF AGS-1623912, NSF AGS-1657921, and NOAA MAPP NA20OAR4310424 is gratefully acknowledged.
 
-The results from some of the experiments are shown below. 
+The results from some of the experiments are shown below, followed by links to some resources.
 
 **Cyclone in Westerly**
 
@@ -29,3 +29,13 @@ The results from some of the experiments are shown below.
 **Gravity Wave Swag**
 
 <img width="500" src="images/umass_lowell_loop.gif" loop=infinite>
+
+**Resources**
+
+-Geoff Vallis' dynamics book: https://www.cambridge.org/core/books/atmospheric-and-oceanic-fluid-dynamics/41379BDDC4257CBE11143C466F6428A4
+
+-Nedjeljka Žagar's pictures of the different wave types (and real-time monitoring): https://modes.cen.uni-hamburg.de/Hough
+
+-David Randall's notes on equatorially-trapped waves in shallow water: https://hogback.atmos.colostate.edu/group/dave/pdf/Matsuno-Gill.pdf
+
+
