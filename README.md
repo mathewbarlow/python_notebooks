@@ -7,6 +7,12 @@ This is a repository of python notebooks (and associated data) that may be of ge
 This python notebook is a quick translation from Greg Hakim's Matlab code for QG PV inversion.  
 
 <img width="400" height="300" src="images/pv_inversion_image.png">  
+
+<b> Shallow Water Model folder </b>
+
+This folder contains notebooks and data for a shallow water model and some idealized experiments.
+
+<img width="500" src="images/cyclone_in_westerly_loop.gif" loop=infinite>
   
 <b> Intro_to_PCA_and_Clustering_Part_1.ipynb </b>
 
