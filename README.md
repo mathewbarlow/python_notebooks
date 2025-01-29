@@ -10,7 +10,7 @@ This python notebook is a quick translation from Greg Hakim's Matlab code for QG
 
 <b> Shallow Water Model folder </b>
 
-This folder contains notebooks and data for a shallow water model and some idealized experiments.
+This folder contains notebooks and data for a shallow water model and some idealized experiments. The code and experiment set was originally programed in MATLAB by Robin Hogan and translated to python by Paul Connolly.
 
 <img width="500" src="images/cyclone_in_westerly_loop.gif" loop=infinite>
   
