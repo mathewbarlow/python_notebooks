@@ -2,6 +2,10 @@
 
 This is a repository of python notebooks (and associated data) that may be of general interest:
 
+<b> run_SpeedyWeather_Julia_Colab.ipynb </b>
+
+This Julia Google Colab notebook runs the SpeedyWeather model. The runtime needs to be set to Julia in colab. Downside: loading the packages takes around ten minutes. Upside: can try out the model without having to install Julia on your own computer.
+
 <b> QG_PV_inversion.ipynb </b>
 
 This python notebook is a quick translation from Greg Hakim's Matlab code for QG PV inversion.  
